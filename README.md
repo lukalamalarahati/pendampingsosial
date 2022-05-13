@@ -12,15 +12,14 @@
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a><br>
 <a href="https://docs.telethon.dev"> <img src="https://img.shields.io/badge/Telethon-1.24.0-red?&style=flat-round&logo=github" alt="Telethon" /> </a>
 <a href="https://docs.python.org"> <img src="https://img.shields.io/badge/Python-3.10.4-purple?&style=flat-round&logo=python" alt="Python" /> </a><br>
-<a href="https://github.com/lukalamalarahati/pendampingsosial"> <img src="https://img.shields.io/badge/Maintained-Yash-yellow.svg" alt="Maintenance" /> </a><br>
-<a href="https://github.com/lukalamalarahati/pendampingsosial/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License" /> </a>
+<a href="https://GitHub.com/kennedy-ex/EmikoRobot"> <img src="https://img.shields.io/badge/Maintained-Yash-yellow.svg" alt="Maintenance" /> </a><br>
+<a href="https://github.com/kennedy-ex/EmikoRobot/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License" /> </a>
 <a href="https://makeapullrequest.com"> <img src="https://img.shields.io/badge/PRs-Welcome-blue.svg?style=flat-round" alt="PRs" /> </a>
 </p>
 
 ### TUTORIAL
 
 - First fork this repository.
-- https://github.com/lukalamalarahati/pendampingsosial
 - Then change the deploy link bellow.
 - This step must be doing because mine link is violates the salesforce acceptable use.
 - You can just change the name of github on deploy link and done, the repos able to deploy on heroku.
